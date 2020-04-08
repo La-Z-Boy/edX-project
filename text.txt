@@ -2,3 +2,5 @@ This is a stupid text file.
 Edited from Github.
 This is edited from VScode.
 Ths is to create a conflict.
+
+This change was made on feature branch.
